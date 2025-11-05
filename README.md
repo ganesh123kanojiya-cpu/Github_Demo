@@ -1,5 +1,6 @@
 ## Add Your Details
-- Create a file in `students/` as your_name.md
+- Append in the file `students/Details.txt`
+
 - Include:
   - Name
   - Roll No
