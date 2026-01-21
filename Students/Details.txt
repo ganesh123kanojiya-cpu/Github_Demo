@@ -1,6 +1,7 @@
 | Name        | GitHub Username | Favorite Language  |
 |-------------|---------------- |--------------------|
-| Kassroom_Jem| Klassroom-jem   | Python             |
+Nandini        psantoshi662@gmail.com       Python
+Kassroom_Jem| Klassroom-jem   | Python             |
 | Janardana   | Jna             | Sanskrit           |
 |Chandrapraksh|chandraprakash54 | Html               | 
 | shravani    |shravani123B     |python              |
@@ -14,3 +15,4 @@
 | Siddhesh    | Siddhesh        | Python             | 
 | Jemit       | klassroom-jem    | Python            |
 | Test_for_Avi| ...             | .....              |
+
